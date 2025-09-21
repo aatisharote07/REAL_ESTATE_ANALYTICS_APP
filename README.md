@@ -1,4 +1,4 @@
-# Real Estate Analytics Web App
+# Real Estate Analytics
 
 A comprehensive data science project for analyzing real estate properties in Gurgaon, India. This project includes web scraping, data cleaning, exploratory data analysis, feature engineering, and machine learning model development for property price prediction.
 
