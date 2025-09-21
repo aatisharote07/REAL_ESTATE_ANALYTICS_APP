@@ -9,7 +9,7 @@ This project focuses on analyzing real estate data from Gurgaon, Haryana, with t
 ## 🏗️ Project Structure
 
 ```
-Real Estate Analytics Web App/
+Real Estate Analytics/
 ├── Data Cleaning/                    # Data preprocessing and cleaning notebooks
 │   ├── data-preprocessing-flats.ipynb
 │   ├── data-preprocessing-houses.ipynb
