@@ -167,11 +167,6 @@ This is a data science project focused on real estate analysis. Contributions ar
 ## 📄 License
 
 This project is for educational and research purposes. Please ensure compliance with web scraping terms of service when collecting data.
-
-## 📞 Contact
-
-For questions or suggestions about this project, please open an issue in the repository.
-
 ---
 
 **Note**: This project is focused on the Gurgaon real estate market. Results and insights may vary for other locations and time periods.
