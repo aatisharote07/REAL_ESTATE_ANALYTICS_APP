@@ -40,7 +40,7 @@ Real Estate Analytics/
     ├── apartments.ipynb
     ├── flats_appartment.ipynb
     ├── Independent_house.ipynb
-    └── *.csv                       # Raw scraped data
+    └── *.csv                       
 ```
 
 ## 🚀 Features
