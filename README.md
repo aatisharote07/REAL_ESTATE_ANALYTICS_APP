@@ -163,6 +163,15 @@ This is a data science project focused on real estate analysis. Contributions ar
 - New visualization techniques
 - Model optimization
 - Documentation improvements
+  
+## 🔮 Future Advancements
+
+- 🏙️ **Multi-City Expansion**: Extend analytics to major cities like Mumbai, Delhi, Pune, Bangalore, and Hyderabad using the same data pipeline.  
+- ⚙️ **Automated ETL Pipelines**: Implement scalable workflows for automated data scraping, cleaning, and updates across cities.  
+- 📊 **Interactive Dashboards**: Develop dynamic multi-city dashboards for comparative property trends and insights.  
+- 🤖 **Advanced Modeling**: Apply deep learning and explainable AI techniques for improved price prediction accuracy and transparency.  
+- 🌐 **External Data Integration**: Combine real estate data with demographic, infrastructure, and economic indicators for richer analysis.  
+- 🚀 **Web App Deployment**: Launch a real-time property price prediction app for users and investors.  
 
 ## 📄 License
 
