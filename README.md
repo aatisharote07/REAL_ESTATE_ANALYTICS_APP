@@ -2,7 +2,7 @@
 
 A comprehensive data science project for analyzing real estate properties in Gurgaon, India. This project includes web scraping, data cleaning, exploratory data analysis, feature engineering, and machine learning model development for property price prediction.
 
-🔗 **Live App:** http://3.27.135.110:8501
+[![Live Web](https://img.shields.io/badge/Live_Web-Click_Here-brightgreen?style=for-the-badge)](http://3.27.135.110:8501)
 
 ## 📋 Project Overview
 
