@@ -6,7 +6,7 @@ A comprehensive data science project for analyzing real estate properties in Gur
 
 ## 📋 Project Overview
 
-This project focuses on analyzing real estate data from Gurgaon, Haryana, with the goal of understanding property market trends and building predictive models for property prices. The project encompasses the complete data science pipeline from data collection to model deployment.
+This project focuses on analyzing real estate data from Gurgaon with the goal of understanding property market trends and building predictive models for property prices. The project encompasses the complete data science pipeline from data collection to model deployment.
 
 ## 🏗️ Project Structure
 
