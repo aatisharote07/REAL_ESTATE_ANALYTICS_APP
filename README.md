@@ -71,9 +71,8 @@ Real Estate Analytics/
   - Lasso Regression
   - Random Forest
   - XGBoost
- 
   - Support Vector Regression
-- **Model Evaluation**: Cross-validation and performance metrics
+- **Model Evaluation**: K fold & Cross-validation and performance metrics
 
 ## 📊 Dataset Information
 
