@@ -27,7 +27,7 @@ Real Estate Analytics/
 │   ├── eda-multivariate-analysis.ipynb
 │   ├── eda-univariate-analysis.ipynb
 │   └── merge-flats-and-house.ipynb
-├── Feature Selection/              # Feature engineering and selection
+├── Feature Selection/              # Feature engineering and Feature selection
 │   ├── feature-selection-and-feature-engineering.ipynb
 │   ├── feature-selection.ipynb
 │   └── *.csv                       # Post-feature selection datasets
