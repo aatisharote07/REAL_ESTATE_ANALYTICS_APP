@@ -83,7 +83,7 @@ Real Estate Analytics/
 
 ### Key Features
 - **Property Details**: Type, society, sector, price, area, bedrooms, bathrooms
-- **Location Data**: Address, sector, nearby locations, coordinates
+- **Location Data**: Address, sector, nearby locations
 - **Property Specifications**: Floor number, facing direction, age, possession status
 - **Amenities**: Furnishing details, features, luxury score
 - **Pricing**: Price per square foot, total price
